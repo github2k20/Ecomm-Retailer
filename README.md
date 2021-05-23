@@ -1,4 +1,6 @@
-# my_app
+# E-Commerce Retailer App
+
+Demo: https://youtu.be/Cabt3vVm5ow
 
 A new Flutter project.
 
